@@ -1,4 +1,4 @@
-module test_cmd
+module github.com/jayddzjh/test_cmd
 
 go 1.21.4
 

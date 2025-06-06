@@ -1,4 +1,4 @@
-module cobra_pkg
+module test_cmd
 
 go 1.21.4
 
